@@ -6,7 +6,7 @@
 
 ## 安装下载
 
-- 下载地址 https://github.com/Sunday-web/sunday-cache.git
+- 下载地址 https://github.com/Sunday-web/sunday-cache/releases
 
 
 ## 快速使用
